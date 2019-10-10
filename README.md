@@ -11,6 +11,7 @@ At my daughter's Japanese Saturday school (日本語補習校), students and par
 - There are too many books (**Over 5,000**)
 - They don't have enough time to decide (**30 min / week**)
 - There is **no website** that shows what books are available
+- 26% of the books have never been borrowed
 
 Solution
 ----  
