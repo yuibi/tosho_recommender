@@ -11,7 +11,7 @@ At my daughter's Japanese Saturday school (日本語補習校), students and par
 - There are too many books (**Over 5,000**)
 - They don't have enough time to decide (**30 min / week**)
 - There is **no website** that shows what books are available
-- 26% of the books have never been borrowed
+- **26%** of the books have never been borrowed
 
 Solution
 ----  
@@ -65,7 +65,8 @@ Number of books | 5103 | 891
 
 Instructions
 ----  
-1. Build a training environment   
+1. Build a training environment  
+ 
     1.  
     ```bash
     cd docker/training
@@ -120,6 +121,7 @@ Description: むかし あし がら 山 の 山 お くに きん という と
     2. Spot check
 ![tosho_recommender](img/tosho_recommender.png)   
 10. Dockerize and build a REST API for inference   
+
     1.  
     ```bash
     cd docker/tosho_recommender
