@@ -157,10 +157,11 @@ This API call returns:
 
 Challenges
 ----  
-- Subclassing in TensorFlow 1.* threw a bunch of errors. Upgrading to TensorFlow 2.0 fixed the issues, espcially during saving and loading models.
-- Some similar books don't make sense at all. The sample size might have been too small. Also, some users (e.g. parents) borrowed both children's books and grown-up books.
+- Subclassing in TensorFlow 1.* threw a bunch of errors. Upgrading to TensorFlow 2.0 fixed the issues, especially during saving and loading models.
+- Some "similar" books don't make sense at all. The sample size might have been too small. Also, some users (e.g. parents) borrowed both children's books and grown-up books.
 
 Acknowledgement
 ----  
 - I was inspired by Fast Forward Labs' [Semantic recommendation report](https://www.cloudera.com/products/fast-forward-labs-research/fast-forward-labs-research-reports.html).
 - Yasu Nagaoka-san, who built this library database system.  
+- [nn116003](https://github.com/nn116003/self-attention-classification) for self-attention visualization.
